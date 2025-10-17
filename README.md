@@ -1,22 +1,73 @@
-## Hi there 👋
-
-# 💫 About Me:
-- 🔭 I’m currently working as a **freelance frontend developer**, building modern and responsive web applications.  <br>- 🌱 I’m currently learning more about **ethical hacking and web security** to build safer products.  <br>- 👯 I’m looking to collaborate on **open source frontend projects** using **React** or **Next.js**.  <br>- 🤔 I’m looking for help with **advanced security practices** for web applications.  <br>- 💬 Ask me about **React, Next.js, performance optimization, or UI/UX best practices**.  <br>- 📫 How to reach me: Abbasmojarrad7@gmail.com <br>- 😄 Pronouns: He/Him  <br>
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abbasmojarrad&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abbasmojarrad&theme=nightowl&hide_border=true)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abbasmojarrad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<img src="https://raw.githubusercontent.com/abbasmojarrad/abbasmojarrad/output/snake.svg" alt="Snake animation" />
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="left">- 🔭 I’m currently working as a freelance frontend developer, building modern and responsive web applications.<br>- 🌱 I’m currently learning more about ethical hacking and web security to build safer products.<br>- 👯 I’m looking to collaborate on open source frontend projects using React or Next.js.<br>- 🤔 I’m looking for help with advanced security practices for web applications.<br>- 💬 Ask me about React, Next.js, performance optimization, or UI/UX best practices.<br>- 📫 How to reach me: Abbasmojarrad7@gmail.com<br>- 😄 Pronouns: He/Him</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbasmojarrad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=abbasmojarrad&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=abbasmojarrad&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbasmojarrad&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abbasmojarrad/abbasmojarrad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abbasmojarrad/abbasmojarrad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abbasmojarrad/abbasmojarrad/output/pacman-contribution-graph.svg">
+</picture>
+
+###
